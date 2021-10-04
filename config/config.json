@@ -1,10 +1,7 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "url": "postgres://alcdnsmq:gk5UtwwAEqO17U9KMjjYvoGRzOQJIpS6@hattie.db.elephantsql.com/alcdnsmq",
+    "dialect": "postgres"
   },
   "test": {
     "username": "root",
